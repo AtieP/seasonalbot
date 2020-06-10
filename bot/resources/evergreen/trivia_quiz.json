@@ -217,6 +217,12 @@
       "question": "What does the acronym GPRS stand for?",
       "answer": "General Packet Radio Service",
       "info": "General Packet Radio Service (GPRS) is a packet-based mobile data service on the global system for mobile communications (GSM) of 3G and 2G cellular communication systems. It is a non-voice, high-speed and useful packet-switching technology intended for GSM networks."
+    },
+    { 
+      "id": 131,
+      "question": "",
+      "answer": "",
+      "info": ""
     }
   ]
 }
